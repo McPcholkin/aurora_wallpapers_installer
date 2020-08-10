@@ -1,6 +1,6 @@
 # Aurora Wallpapers installer for magisk
 
-This module NOT containing Aurora Wallpapers APK, you can find it by yoursellf and put inside /system/priv-app/com.aurora.wallpapers/ directory.
+This module NOT containing A[Aurora Wallpapers](https://gitlab.com/AuroraOSS/AuroraWallpapers) APK, you can find it by yoursellf and put inside /system/priv-app/com.aurora.wallpapers/ directory.
 
 ## How to make magisk module:
 - Clone repo (or download as zip)
